@@ -13,7 +13,7 @@ Wattle Wear is a premium fashion brand offering high-quality clothing and access
 ## 📦 Tech Stack
 
 - OpenCart v3.x
-- PHP 7.4+
+- PHP 8.0+
 - MySQL / MariaDB
 - HTML5 / CSS3
 - Bootstrap (Default theme or custom)
@@ -22,4 +22,9 @@ Wattle Wear is a premium fashion brand offering high-quality clothing and access
 ---
 
 ## 📁 Folder Structure
-
+catalog
+extension
+image
+system
+user
+upload
